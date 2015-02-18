@@ -35,7 +35,10 @@ int main(int argc, char *argv[])
 
 	//here you can do some useful work
 	while(1)
+	{
+		printf("working...\n");
 		sleep(1);
+	}
 
 	return 0;
 }
