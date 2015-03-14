@@ -1,5 +1,7 @@
 # linux-process-self-monitoring
 
+Code for article: (http://vadimgenkin.blogspot.com/2015/02/a-very-simple-self-monitoringwatchdog.html)
+
 ### Intro ###
 
 A very simple Linux process self-monitoring implementation.
